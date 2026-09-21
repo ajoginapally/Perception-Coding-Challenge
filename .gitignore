@@ -1,0 +1,10 @@
+.venv/
+.uv-cache/
+__pycache__/
+.pytest_cache/
+.mpl-cache/
+dataset/
+outputs/
+work/
+*.egg-info/
+.DS_Store

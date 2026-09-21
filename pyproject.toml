@@ -1,0 +1,15 @@
+[project]
+name = "perception-coding-challenge"
+version = "0.1.0"
+description = "Landmark-anchored ego trajectory and RGB/XYZ object tracking"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.1",
+    "opencv-python>=4.10",
+    "matplotlib>=3.9",
+    "imageio-ffmpeg>=0.5",
+]
+
+[dependency-groups]
+dev = []

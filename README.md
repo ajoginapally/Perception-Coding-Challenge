@@ -12,7 +12,7 @@ You are given a short **10-second video** recorded from an **ego-vehicle** (our 
 Your task is to estimate and visualize the **ego-vehicle’s trajectory in the ground frame**, using the traffic light as a world reference.
 You may then extend your solution by tracking additional objects and rendering a richer **Bird’s-Eye View (BEV)**.  
 
-Use any tools you like — chatGPT and other assistants are highly encouraged. Please **do not** flood our e-mails with simple questions. GenAI is you friend.  
+
 
 <img src="WA Challenge.gif" width="500"> 
 
@@ -141,3 +141,5 @@ Please create a <u>PUBLIC</u> GitHub repository and [submit](https://docs.google
 ---
 ##### [Interesting stuff from NVIDIA](https://build.nvidia.com/nvidia/bevformer) for the curious.
 <img src="bevformer.jpeg" width="500">
+
+
